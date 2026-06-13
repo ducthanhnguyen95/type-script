@@ -6,3 +6,13 @@ let sales = 123_456_789;
 let coures = 'TypeScript';
 let is_published = true;
 let level;
+// level = 1;
+// level = 'a';
+
+// function render(document){
+
+// }
+
+// function render(document: any){
+
+// }

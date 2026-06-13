@@ -25,6 +25,7 @@
     "exactOptionalPropertyTypes": true,
     "removeComments": true,
     "noEmitOnError": true,
+    // "noImplicitAny": true,
 
     // Style Options
     // "noImplicitReturns": true,
