@@ -19,3 +19,5 @@ let level;
 
 let number:number[] = [1,2,3];
 number.forEach(n => n.toExponential);
+
+let user: [number, string] = [1, 'thanh'];
