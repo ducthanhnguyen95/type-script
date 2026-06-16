@@ -16,3 +16,6 @@ let level;
 // function render(document: any){
 
 // }
+
+let number:number[] = [1,2,3];
+number.forEach(n => n.toExponential);
