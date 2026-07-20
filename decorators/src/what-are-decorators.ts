@@ -1,4 +1,2 @@
 @Component
-class ProfileComponent {
-
-}
+class ProfileComponent {}
