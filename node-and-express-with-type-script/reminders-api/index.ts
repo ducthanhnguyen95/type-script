@@ -1,5 +1,8 @@
 import express from "express";
 const app = express();
+import remindersRouter from "./routers/reminders";
+
+app.use("/reminders", remindersRouter);
 
 app.get("/", (req, res) => {
   res.send("Hello World");
